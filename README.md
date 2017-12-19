@@ -11,3 +11,5 @@ Used float left for all the articles except the large image. This tactic combine
 Created a media query at 800px. For smaller devices, you scroll through the images. And created a vertical media query just so the text in box #oneOne isn't lost.
 
 -Ryan  # rh-comp-challenge-1
+
+![alt](Screen%20Shot%202017-12-19%20at%2011.03.25%20AM.png)
