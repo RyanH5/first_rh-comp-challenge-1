@@ -12,4 +12,8 @@ Created a media query at 800px. For smaller devices, you scroll through the imag
 
 -Ryan  # rh-comp-challenge-1
 
+Class Static Comp
 ![alt](Screen%20Shot%202017-12-19%20at%2011.03.25%20AM.png)
+
+My Static Comp
+![alt](Screen%20Shot%202017-12-19%20at%2011.03.59%20AM.png)
